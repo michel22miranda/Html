@@ -1,4 +1,22 @@
 body {
     color: red;
     background: black;
+    margin: solid 10px rgb(231, 231, 238);
+}
+header {    
+    border-bottom : solid 10px rgb(42,122,228);
+    padding: 20px;
+    font-style: italic;
+    font-size: 32px;
+}
+section{
+    background: coral;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+div{
+    margin: 20px;
 }
